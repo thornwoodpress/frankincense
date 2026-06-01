@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="logo.png" alt="Thornwood Press" width="200">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="logo-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="logo.png">
+    <img alt="Thornwood Press" src="logo.png" width="200">
+  </picture>
 </p>
 
 # Frankincense: The Surprising History
