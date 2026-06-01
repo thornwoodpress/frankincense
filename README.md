@@ -4,7 +4,7 @@
 
 # Frankincense: The Surprising History
 
-*Heavenly Sap Series #1*
+*Heavenly Sap Series #1* · Fred Frers
 
 This repository is for readers of the book. If you find an error of fact, a missing source, a species misidentification, or anything else that should be corrected in future printings, please [open an issue](../../issues).
 
