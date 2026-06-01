@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="Thornwood Press" width="120">
+</p>
+
 # Frankincense: The Surprising History
 
 *Heavenly Sap Series #1*
