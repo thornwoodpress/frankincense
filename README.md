@@ -2,13 +2,13 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="logo-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="logo.png">
-    <img alt="Thornwood Press" src="logo.png" width="200">
+    <img alt="Thornwood Press" src="logo.png" width="120">
   </picture>
 </p>
 
-# Frankincense: The Surprising History
+# Frankincense: A History of the World's Noblest Smoke
 
-*Heavenly Sap Series #1* · Fred Frers
+Fred Frers
 
 This repository is for readers of the book. If you find an error of fact, a missing source, a species misidentification, or anything else that should be corrected in future printings, please [open an issue](../../issues).
 
@@ -16,4 +16,4 @@ All corrections that make it into a future printing will be acknowledged by name
 
 ---
 
-Published by Thornwood Press · ISBN 979-8-9964353-0-2
+Thornwood Press · ISBN 979-8-9964353-0-2
